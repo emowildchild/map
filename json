@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800080",
+        "title": "Moscow",
+        "marker-size": "small",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.59521484375,
+          55.801280971180454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "religious-jewish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.033203125,
+          56.3774187738762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9912109375,
+          56.8729956637964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#34afc9",
+        "marker-size": "large",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.90234375,
+          59.22093407615045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.92431640625,
+            59.23217626921806
+          ],
+          [
+            35.96923828125,
+            56.84897198026975
+          ],
+          [
+            37.63916015625,
+            55.751849391735284
+          ],
+          [
+            39.83642578125,
+            59.20968817840924
+          ]
+        ]
+      }
+    }
+  ]
+}
